@@ -6,6 +6,7 @@ const favouritefood = "Biriyani";
 console.log(favouritefood);
 ```
 ->OUTPUT
+
 ![image](https://github.com/user-attachments/assets/215a57b0-a648-41d5-9057-0ed5c46e4122)
 
 
@@ -27,6 +28,7 @@ else{
 }
 ```
 ->OUTPUT
+
 ![image](https://github.com/user-attachments/assets/553cec32-56df-4438-8eb7-5ff91337cc09)
 
 
@@ -51,4 +53,5 @@ for(let i=1;i<=20;i++){
 }
 ```
 ->OUTPUT
+
 ![image](https://github.com/user-attachments/assets/89fe209b-d266-46a5-8ac5-0e429e8627db)
