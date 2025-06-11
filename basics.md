@@ -13,7 +13,7 @@ console.log(favouritefood);
 Q2) [Easy] Create two variables, numA and numB, and assign them number values. Write an if/else statement to print which number is larger or if they are equal.
 
 ->CODE
-
+```js
 var numA=2;
 var numB=4;
 if(numA<numB){
@@ -25,7 +25,7 @@ else if(numB<numA){
 else{
     console.log("Both are equal");
 }
-
+```
 ->OUTPUT
 ![image](https://github.com/user-attachments/assets/553cec32-56df-4438-8eb7-5ff91337cc09)
 
