@@ -1,4 +1,4 @@
-#BASICS
+# BASICS
 
 Q1) [Easy] Declare a variable named favoriteFood using const and assign it a string value of your favorite food. Print it to the console.
 
@@ -60,7 +60,7 @@ for(let i=1;i<=20;i++){
 
 
 
-#ARRAYS
+# ARRAYS
 
 Q1) 1. **[Easy]** Create an array named `colors` with three of your favorite colors.
     - Add a fourth color to the end of the array.
@@ -121,7 +121,7 @@ OUTPUT->
 
 ![image](https://github.com/user-attachments/assets/337b3a92-d606-4508-87a4-1c2c32ace3dd)
 
-#OBJECTS
+# OBJECTS
 
 Q1) [Easy] Create an object named movie with properties for title, director, and releaseYear. Print the title of the movie to the console.
 
@@ -177,7 +177,7 @@ OUTPUT
 
 ![image](https://github.com/user-attachments/assets/0de0977b-6ff4-4478-856e-7a453bfcda03)
 
-#ADVANCED
+# ADVANCED
 
 Q1) **[Hard]** Write a function called `getHighAchievers`. This function should accept two arguments: an array of student objects and a `passingScore` number. Each student object will look like this: `{ id: 1, name: 'Alice', score: 85 }`.
     - The function should **filter** the students to get only those with a score greater than or equal to `passingScore`.
